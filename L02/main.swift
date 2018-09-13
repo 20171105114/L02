@@ -7,6 +7,9 @@
 //
 
 import Foundation
-
-print("Hello, World!")
+var a = 10
+var b = 2
+a = 20
+let c = a+b
+print(c)
 
